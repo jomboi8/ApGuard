@@ -34,6 +34,7 @@ Extensible Design — Modular architecture allows easy integration with existing
 
 
 ### System Architecture
+```
 ┌───────────▼───────────────┐
 │  Network Interface        │
 └───────────┬───────────────┘
@@ -53,7 +54,7 @@ Extensible Design — Modular architecture allows easy integration with existing
 ┌───────────▼───────────────┐
 │   Dashboard / API Layer   │
 └───────────────────────────┘
-
+```
 ### Objectives
 
 Design and implement an AI-powered intrusion detection and prevention tool for Wi-Fi networks.
