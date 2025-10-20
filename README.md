@@ -52,7 +52,7 @@ Extensible Design — Modular architecture allows easy integration with existing
             │ Visualization
 ┌───────────▼───────────────┐
 │   Dashboard / API Layer   │
-└──────────────────────────┘
+└───────────────────────────┘
 
 ### Objectives
 
