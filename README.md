@@ -34,8 +34,8 @@ Extensible Design — Modular architecture allows easy integration with existing
 
 
 ### System Architecture
-┌──────────────────────────┐
-│   Network Interface       │
+┌───────────▼───────────────┐
+│  Network Interface        │
 └───────────┬───────────────┘
             │ Packet Capture
 ┌───────────▼───────────────┐
